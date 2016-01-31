@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="books">
+        <item> 疯狂java讲义</item>
+        <item> 疯狂android讲义</item>
+        <item> 疯狂linux讲义</item>
+        <item> 疯狂shuju讲义</item>
+    </string-array>
+</resources>
